@@ -1,0 +1,6 @@
+This  Pokémon is  Bulbasaur
+This  Pokémon is Squirtle
+This  Pokémon is Charmander
+This  Pokémon is Pikachu
+This  Pokémon is Eevee
+This  Pokémon is  Psyduck
